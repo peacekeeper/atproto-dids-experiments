@@ -1,0 +1,26 @@
+{
+  "name": "atproto-boilerplate",
+  "version": "0.1.0",
+  "description": "Minimal TypeScript boilerplate for working with @atproto/repo and @atproto/crypto (no web server dependencies).",
+  "private": true,
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@atproto/repo": "^0.10.6",
+    "@atproto/crypto": "^0.5.4",
+    "jose": "^6.2.4",
+    "@ipld/dag-cbor": "^10.0.1",
+    "@ipld/car": "^5.4.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "tsx": "^4.19.0",
+    "@types/node": "^20.14.0"
+  }
+}

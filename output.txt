@@ -1,0 +1,158 @@
+[1/12] DID: did:key:zQ3shiGUFyUf77EFSXbRW7rDYayqD5yokADVQSGLYQgAKZtGx (secp256k1)
+CID: bafyreic4l4ihpgplg6vjii7oytl7cunenucbputmksztpqcndbfqv2zqqe
+HEX: a66364696478396469643a6b65793a7a5133736869475546795566373745465358625257377244596179714435796f6b4144565153474c595167414b5a744778637265766d336d72626535766776327332746373696758407b9e71649d4359aa7b18d407b88e9494af176eb49b520094612fccf63a3fe4760b62582f1dd6f122965469057897f1be9089f45aa54351592fd99e46acd7bb5f6464617461d82a58250001711220ca7a49f14d4a6ff872c3bb5878002b94b1dab3bde7a67f8f64c73ad4ebd6f9606470726576f66776657273696f6e03
+OBJ: {"did":"did:key:zQ3shiGUFyUf77EFSXbRW7rDYayqD5yokADVQSGLYQgAKZtGx","rev":"3mrbe5vgv2s2t","sig":"7b9e71649d4359aa7b18d407b88e9494af176eb49b520094612fccf63a3fe4760b62582f1dd6f122965469057897f1be9089f45aa54351592fd99e46acd7bb5f","data":{"/":"bafyreigkpje7ctkkn74hfq53lb4aak4uwhnlhpphuz7y6zghhlkoxvxzma"},"prev":null,"version":3}
+
+[2/12] DID: did:key:zDnaeUywWK3wEdinSifjYLXCguDm3rQ2zPc2Z5PEbTotc2N5j (P-256)
+CID: bafyreihmwmrezlkoj2ueffyu2p27v525aogrtuhyc4xo4vaua6g5eapbgi
+HEX: a66364696478396469643a6b65793a7a446e6165557977574b33774564696e5369666a594c58436775446d337251327a5063325a35504562546f7463324e356a637265766d336d726265357668696c7332746373696758402c36ab3786821ec59418a5ba52b853128b506600cb7c22e444133cbc45cf4996d58bda26f376b157f1f2450d4ade78bf971e4cd4f30141f0b710e38531667ddd6464617461d82a58250001711220a980afbe402a20aa6f4a24e6c47ef0ff95818f803ad4a4df952b501ec77402cd6470726576f66776657273696f6e03
+OBJ: {"did":"did:key:zDnaeUywWK3wEdinSifjYLXCguDm3rQ2zPc2Z5PEbTotc2N5j","rev":"3mrbe5vhils2t","sig":"2c36ab3786821ec59418a5ba52b853128b506600cb7c22e444133cbc45cf4996d58bda26f376b157f1f2450d4ade78bf971e4cd4f30141f0b710e38531667ddd","data":{"/":"bafyreifjqcx34qbkecvg6sre43ch54h7sway7ab22ssn7fjlkapmo5aczu"},"prev":null,"version":3}
+
+[3/12] DID: did:key:z6MkoMKrucfkt5EqR5Ln3HyXqwRNRowLFq1rkgasYAFxdqrb (EdDSA)
+CID: bafyreifczq2lvmeenwgaj7cug6dc6x5jruvb4zs7mi64dldqietfvwelz4
+HEX: a66364696478386469643a6b65793a7a364d6b6f4d4b727563666b7435457152354c6e334879587177524e526f774c467131726b6761735941467864717262637265766d336d726265357669697432327463736967584034321f8f268e69c0e9c56b02e56562db96a66aac75d5993ac6a9551f157eb37e4ac714e09503a9ab671b6bdcba5abdbcfaf762592dc0d61950a4535afeea0d0b6464617461d82a582500017112208848619c7ba4b91b6ba84c5255adfa3210324e51d0c0f4de8bb5967b4c0a0f136470726576f66776657273696f6e03
+OBJ: {"did":"did:key:z6MkoMKrucfkt5EqR5Ln3HyXqwRNRowLFq1rkgasYAFxdqrb","rev":"3mrbe5viit22t","sig":"34321f8f268e69c0e9c56b02e56562db96a66aac75d5993ac6a9551f157eb37e4ac714e09503a9ab671b6bdcba5abdbcfaf762592dc0d61950a4535afeea0d0b","data":{"/":"bafyreieijbqzy65exenwxkcmkjk236rscaze4uoqyd2n5c5vsz5uycqpcm"},"prev":null,"version":3}
+
+[4/12] DID: did:near:6ovKUtk1Ze6NXgCKPSnGnfjFMSYRAyYBbSzqcSeTEc5U (EdDSA)
+CID: bafyreiboad5kiubltmdbj5yhbm25gprv635eppq2rzjzzhiylgv3dlr5hm
+HEX: a66364696478356469643a6e6561723a366f764b55746b315a65364e5867434b50536e476e666a464d5359524179594262537a716353655445633555637265766d336d72626535766a6261633274637369675840be5776288522336b363ec09f93eb41157b64cf7724523a304bdd913404997c52cf149ba9610f013281fe7f60ffa5341e373e0e99f7025cd8a2bd79825677fb076464617461d82a582500017112202af64b00cf8c304daf9b217a9d845cea6fde1b24c0d44d19fbacf2e16b06f5586470726576f66776657273696f6e03
+OBJ: {"did":"did:near:6ovKUtk1Ze6NXgCKPSnGnfjFMSYRAyYBbSzqcSeTEc5U","rev":"3mrbe5vjbac2t","sig":"be5776288522336b363ec09f93eb41157b64cf7724523a304bdd913404997c52cf149ba9610f013281fe7f60ffa5341e373e0e99f7025cd8a2bd79825677fb07","data":{"/":"bafyreibk6zfqbt4mgbg27gzbpkoyixhkn7pbwjga2rgrt65m6lqwwbxvla"},"prev":null,"version":3}
+
+[5/12] DID: did:ethr:sepolia:0x0256e9df79bcc617bff5b9ca21488a1fbf35aa9a9d454cce87323d722546795dd7 (secp256k1)
+CID: bafyreiegethppmmyvj6j7qtkxhfiyb54lfofwgnifwd5r3fnswizwptyxa
+HEX: a66364696478556469643a657468723a7365706f6c69613a3078303235366539646637396263633631376266663562396361323134383861316662663335616139613964343534636365383733323364373232353436373935646437637265766d336d72626535766a63376b327463736967584004f278ba9b85630e0f1a5a4d34576e63d1e656baedef9c0a657079343ab012ce0df570740821d14d50416ebdf046a305bf3790c4bd5d14f60093be63b1444d3d6464617461d82a582500017112208632e89e607650179e10767b24958fda2c264dda4278ac450af3984b0ddba8796470726576f66776657273696f6e03
+OBJ: {"did":"did:ethr:sepolia:0x0256e9df79bcc617bff5b9ca21488a1fbf35aa9a9d454cce87323d722546795dd7","rev":"3mrbe5vjc7k2t","sig":"04f278ba9b85630e0f1a5a4d34576e63d1e656baedef9c0a657079343ab012ce0df570740821d14d50416ebdf046a305bf3790c4bd5d14f60093be63b1444d3d","data":{"/":"bafyreieggluj4ydwkalz4edwpmsjld62fqte3wscpcwekcxttbfq3w5ipe"},"prev":null,"version":3}
+
+[6/12] DID: did:cheqd:testnet:b11ca84d-52e7-4dbe-91fc-dd36b8164edf (EdDSA)
+CID: bafyreic4dc7vvrsowoq3hr3kxz5sikivrvwindxl474gqr5pgw3uy6qxym
+HEX: a66364696478366469643a63686571643a746573746e65743a62313163613834642d353265372d346462652d393166632d646433366238313634656466637265766d336d72626535766a6436733274637369675840b27a84317eae28a48b17cb474bd3608bdc112786afc169258e27d6b34099b8df4752a6d5507409c6975f44dce7072f51755266371e10e4f7c48333cb0cf7550c6464617461d82a582500017112201ce51dde9ab04e85323608bcd4d534762a098528bb71bc7f31bea5c55b7e75926470726576f66776657273696f6e03
+OBJ: {"did":"did:cheqd:testnet:b11ca84d-52e7-4dbe-91fc-dd36b8164edf","rev":"3mrbe5vjd6s2t","sig":"b27a84317eae28a48b17cb474bd3608bdc112786afc169258e27d6b34099b8df4752a6d5507409c6975f44dce7072f51755266371e10e4f7c48333cb0cf7550c","data":{"/":"bafyreia44uo55gvqj2ctenqixtknkndwfieykkf3og6h6mn6uxcvw7tvsi"},"prev":null,"version":3}
+
+[7/12] DID: did:btcr2:k1qvp0knrg2gkp4xre8wtf76ktl7zxeqzs8vlylp68u3dvq23gnnd8ndsme053n (secp256k1)
+CID: bafyreibacd32j2ax6czti3zlu3qqnitr2wuz7rsol7qkwfbi7sctjtgin4
+HEX: a66364696478496469643a62746372323a6b31717670306b6e726732676b70347872653877746637366b746c377a7865717a7338766c796c70363875336476713233676e6e64386e64736d653035336e637265766d336d72626535766a6635633274637369675840cd574c263a7621d168a7e42689cd95ea1ef2e204ece633c9e5e361ed1f8c49900f6196844d4456997b14a134855ea57a64d8daa1386485c4121c9fdbb4fe1a836464617461d82a5825000171122024265aa27f837c484be568d3cfb97dcda2d7392c7013032407a2e99b72dfcc456470726576f66776657273696f6e03
+OBJ: {"did":"did:btcr2:k1qvp0knrg2gkp4xre8wtf76ktl7zxeqzs8vlylp68u3dvq23gnnd8ndsme053n","rev":"3mrbe5vjf5c2t","sig":"cd574c263a7621d168a7e42689cd95ea1ef2e204ece633c9e5e361ed1f8c49900f6196844d4456997b14a134855ea57a64d8daa1386485c4121c9fdbb4fe1a83","data":{"/":"bafyreibeeznke74dpreexzli2ph3s7onulltsldqcmbsib5c5gnxfx6miu"},"prev":null,"version":3}
+
+[8/12] DID: did:jwk:eyJrdHkiOiJFQyIsImNydiI6IlAtMjU2IiwieCI6IjMtanBacGlNSm1yYzVQMld5UVV4bHE2ZUdENkFrNzhicmJZUzZkbDQwNmMiLCJ5IjoibEM2SGtHV0NCSHBWREtUaUk2QlBJSlNhUzVhZ19XQm45WjlBWF9JbGxmWSJ9 (P-256)
+CID: bafyreihjh3fbzlgqz7aqdqlgykbq4mwmq43k4wfj6kb3mv2rkewu5qqnbe
+HEX: a66364696478b06469643a6a776b3a65794a7264486b694f694a4651794973496d4e7964694936496c41744d6a55324969776965434936496a4d74616e426163476c4e536d3179597a56514d6c643555565634624845325a5564454e6b46724e7a6869636d4a5a557a5a6b624451774e6d4d694c434a35496a6f6962454d325347744856304e43534842575245745561556b32516c424a536c4e68557a56685a313958516d3435576a6c425746394a6247786d57534a39637265766d336d72626535766a67346b3274637369675840c036434985e8958fa29e1eb710d89b712b599b66d8cef9eb786e174fb72d8e3b529201ae66300aa82cb16cff7f6da5b7e86ed0dcc91797f89005c7ebb8bdafe96464617461d82a58250001711220a0b9b82a869c5e2dce799739690fc1b41e5938cfda6c398ee5ce2ad9cfaf9efc6470726576f66776657273696f6e03
+OBJ: {"did":"did:jwk:eyJrdHkiOiJFQyIsImNydiI6IlAtMjU2IiwieCI6IjMtanBacGlNSm1yYzVQMld5UVV4bHE2ZUdENkFrNzhicmJZUzZkbDQwNmMiLCJ5IjoibEM2SGtHV0NCSHBWREtUaUk2QlBJSlNhUzVhZ19XQm45WjlBWF9JbGxmWSJ9","rev":"3mrbe5vjg4k2t","sig":"c036434985e8958fa29e1eb710d89b712b599b66d8cef9eb786e174fb72d8e3b529201ae66300aa82cb16cff7f6da5b7e86ed0dcc91797f89005c7ebb8bdafe9","data":{"/":"bafyreifaxg4cvbu4lyw446mxhfuq7qnudzmtrt62nq4y5zooflm47l467q"},"prev":null,"version":3}
+
+[9/12] DID: did:pkh:eip155:1:0xb53533531c949b3d939395f112e590722c0F5e4c (secp256k1)
+CID: bafyreibgwwwnrbp7b6jt23gzlh5elaofl7tabgwuktfiokkdebwdwutwuq
+HEX: a663646964783b6469643a706b683a6569703135353a313a307862353335333335333163393439623364393339333935663131326535393037323263304635653463637265766d336d72626535766a683373327463736967584087e60f9a9ca5a8a351e1c4bc8ad2710e3a872632ffb2652403e59406f99aa6691c94e95b3d2acead82a00d3174e9263de412113096ffb54ca6fbd6106c344bc36464617461d82a58250001711220a83978a01e4902219e42e569b944f7dc467807c091bc103c2d22e0fdaeabd0c86470726576f66776657273696f6e03
+OBJ: {"did":"did:pkh:eip155:1:0xb53533531c949b3d939395f112e590722c0F5e4c","rev":"3mrbe5vjh3s2t","sig":"87e60f9a9ca5a8a351e1c4bc8ad2710e3a872632ffb2652403e59406f99aa6691c94e95b3d2acead82a00d3174e9263de412113096ffb54ca6fbd6106c344bc3","data":{"/":"bafyreifihf4kahsjaiqz4qxfng4uj564iz4apqerxqidyljc4d625k6qza"},"prev":null,"version":3}
+
+[10/12] DID: did:web:did-web.godiddy.com:5e7f7be4-17b8-4612-9a54-3fef815060b3 (P-256)
+CID: bafyreibobz62dml5f2tkj4w4bzirsxutcgwhtwxgzj2xbnnhdjfme5vzqe
+HEX: a66364696478406469643a7765623a6469642d7765622e676f64696464792e636f6d3a35653766376265342d313762382d343631322d396135342d336665663831353036306233637265766d336d72626535766a6833743274637369675840ba4a049f6a9a5f2fc6b566a1a513452e614eff916ea5aeca0a4b0b733dcd015f059568da353d1153024994d8fd319d7550dee74c583d9e662f4cdefe3f28de7f6464617461d82a582500017112209d67f0a6dce8fb6099be26238ae1d92524a75d4dff068a5057e0374dc59c51476470726576f66776657273696f6e03
+OBJ: {"did":"did:web:did-web.godiddy.com:5e7f7be4-17b8-4612-9a54-3fef815060b3","rev":"3mrbe5vjh3t2t","sig":"ba4a049f6a9a5f2fc6b566a1a513452e614eff916ea5aeca0a4b0b733dcd015f059568da353d1153024994d8fd319d7550dee74c583d9e662f4cdefe3f28de7f","data":{"/":"bafyreie5m7yknxhi7nqjtprgeofodwjfestv2tp7a2ffav7ag5g4lhcri4"},"prev":null,"version":3}
+
+[11/12] DID: did:webvh:QmQrRpzES9FYEjhZeu4JoW29qPXBvpz7BbBkrHmjEA7RSN:did-web.godiddy.com:6974817d-583d-47ad-8ce5-392d0ca89bab (P-256)
+CID: bafyreiabwt5yejdt2cm4txypntutx7xnufxtfgblqvxvevvz746dbmhu3a
+HEX: a66364696478716469643a77656276683a516d517252707a4553394659456a685a6575344a6f5732397150584276707a374262426b72486d6a45413752534e3a6469642d7765622e676f64696464792e636f6d3a36393734383137642d353833642d343761642d386365352d333932643063613839626162637265766d336d72626535766a693333327463736967584024c79a71b8a3c104e60b9fcc47224f13c5cd1ae91687e656db9d6cc23591f7548743ba8e452f11552395aa293390827926a37c356e822de261cab9ce3651abd26464617461d82a582500017112202a63d1244e3bb0405d76299e4dab124fbe57b640aa21702b787018df20f9ac466470726576f66776657273696f6e03
+OBJ: {"did":"did:webvh:QmQrRpzES9FYEjhZeu4JoW29qPXBvpz7BbBkrHmjEA7RSN:did-web.godiddy.com:6974817d-583d-47ad-8ce5-392d0ca89bab","rev":"3mrbe5vji332t","sig":"24c79a71b8a3c104e60b9fcc47224f13c5cd1ae91687e656db9d6cc23591f7548743ba8e452f11552395aa293390827926a37c356e822de261cab9ce3651abd2","data":{"/":"bafyreibkmpisitr3wbaf25rjtzg2wespxzl3mqfkefycw6dqddpsb6nmiy"},"prev":null,"version":3}
+
+[12/12] DID: did:ebsi:zjUnExsyyweQ9p4cy3nvrVc (secp256k1)
+CID: bafyreiegy54lb26v5bwyqowkrzc4djflmtekutdeugfss3bh456hxe2nxa
+HEX: a66364696478206469643a656273693a7a6a556e45787379797765513970346379336e76725663637265766d336d72626535766a6a32643274637369675840ba132a4ea339e100be8d0f6d2395e4be29c1d6b8d799415150857c4f90227a6b3be90a3491e0cb2d1656e72eb59392dafbd92860b532ddf58e1d1e5d83b1f9306464617461d82a5825000171122063bf7c25977c04e6855811f701fd3d0365e937140b298c031f3b12fcbfb0d8206470726576f66776657273696f6e03
+OBJ: {"did":"did:ebsi:zjUnExsyyweQ9p4cy3nvrVc","rev":"3mrbe5vjj2d2t","sig":"ba132a4ea339e100be8d0f6d2395e4be29c1d6b8d799415150857c4f90227a6b3be90a3491e0cb2d1656e72eb59392dafbd92860b532ddf58e1d1e5d83b1f930","data":{"/":"bafyreiddx56clf34attikwar64a72pidmxutofalfggaghz3cl6l7mgyea"},"prev":null,"version":3}
+
+
+All records:
+[did:key:zQ3shiGUFyUf77EFSXbRW7rDYayqD5yokADVQSGLYQgAKZtGx] -->  {
+  text: 'Record #1, signed by did:key:zQ3shiGUFyUf77EFSXbRW7rDYayqD5yokADVQSGLYQgAKZtGx',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.860Z'
+}
+[did:key:zDnaeUywWK3wEdinSifjYLXCguDm3rQ2zPc2Z5PEbTotc2N5j] -->  {
+  text: 'Record #2, signed by did:key:zDnaeUywWK3wEdinSifjYLXCguDm3rQ2zPc2Z5PEbTotc2N5j',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.883Z'
+}
+[did:key:z6MkoMKrucfkt5EqR5Ln3HyXqwRNRowLFq1rkgasYAFxdqrb] -->  {
+  text: 'Record #3, signed by did:key:z6MkoMKrucfkt5EqR5Ln3HyXqwRNRowLFq1rkgasYAFxdqrb',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.915Z'
+}
+[did:near:6ovKUtk1Ze6NXgCKPSnGnfjFMSYRAyYBbSzqcSeTEc5U] -->  {
+  text: 'Record #4, signed by did:near:6ovKUtk1Ze6NXgCKPSnGnfjFMSYRAyYBbSzqcSeTEc5U',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.941Z'
+}
+[did:ethr:sepolia:0x0256e9df79bcc617bff5b9ca21488a1fbf35aa9a9d454cce87323d722546795dd7] -->  {
+  text: 'Record #5, signed by did:ethr:sepolia:0x0256e9df79bcc617bff5b9ca21488a1fbf35aa9a9d454cce87323d722546795dd7',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.942Z'
+}
+[did:cheqd:testnet:b11ca84d-52e7-4dbe-91fc-dd36b8164edf] -->  {
+  text: 'Record #6, signed by did:cheqd:testnet:b11ca84d-52e7-4dbe-91fc-dd36b8164edf',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.943Z'
+}
+[did:btcr2:k1qvp0knrg2gkp4xre8wtf76ktl7zxeqzs8vlylp68u3dvq23gnnd8ndsme053n] -->  {
+  text: 'Record #7, signed by did:btcr2:k1qvp0knrg2gkp4xre8wtf76ktl7zxeqzs8vlylp68u3dvq23gnnd8ndsme053n',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.944Z'
+}
+[did:jwk:eyJrdHkiOiJFQyIsImNydiI6IlAtMjU2IiwieCI6IjMtanBacGlNSm1yYzVQMld5UVV4bHE2ZUdENkFrNzhicmJZUzZkbDQwNmMiLCJ5IjoibEM2SGtHV0NCSHBWREtUaUk2QlBJSlNhUzVhZ19XQm45WjlBWF9JbGxmWSJ9] -->  {
+  text: 'Record #8, signed by did:jwk:eyJrdHkiOiJFQyIsImNydiI6IlAtMjU2IiwieCI6IjMtanBacGlNSm1yYzVQMld5UVV4bHE2ZUdENkFrNzhicmJZUzZkbDQwNmMiLCJ5IjoibEM2SGtHV0NCSHBWREtUaUk2QlBJSlNhUzVhZ19XQm45WjlBWF9JbGxmWSJ9',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.945Z'
+}
+[did:pkh:eip155:1:0xb53533531c949b3d939395f112e590722c0F5e4c] -->  {
+  text: 'Record #9, signed by did:pkh:eip155:1:0xb53533531c949b3d939395f112e590722c0F5e4c',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.946Z'
+}
+[did:web:did-web.godiddy.com:5e7f7be4-17b8-4612-9a54-3fef815060b3] -->  {
+  text: 'Record #10, signed by did:web:did-web.godiddy.com:5e7f7be4-17b8-4612-9a54-3fef815060b3',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.947Z'
+}
+[did:webvh:QmQrRpzES9FYEjhZeu4JoW29qPXBvpz7BbBkrHmjEA7RSN:did-web.godiddy.com:6974817d-583d-47ad-8ce5-392d0ca89bab] -->  {
+  text: 'Record #11, signed by did:webvh:QmQrRpzES9FYEjhZeu4JoW29qPXBvpz7BbBkrHmjEA7RSN:did-web.godiddy.com:6974817d-583d-47ad-8ce5-392d0ca89bab',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.948Z'
+}
+[did:ebsi:zjUnExsyyweQ9p4cy3nvrVc] -->  {
+  text: 'Record #12, signed by did:ebsi:zjUnExsyyweQ9p4cy3nvrVc',
+  '$type': 'app.bsky.feed.post',
+  createdAt: '2026-07-22T22:19:16.949Z'
+}
+Wrote block with CID: [bafyreih7ls2y4qoy7lm4va2oolb2mnaip64ekjkgcyefmf3rc2bs2bayya], 147 bytes
+Wrote block with CID: [bafyreigkpje7ctkkn74hfq53lb4aak4uwhnlhpphuz7y6zghhlkoxvxzma], 93 bytes
+Wrote block with CID: [bafyreic4l4ihpgplg6vjii7oytl7cunenucbputmksztpqcndbfqv2zqqe], 213 bytes
+Wrote block with CID: [bafyreibbhwg57ojrk35i2eypulxqwoajukvjjyx22zdkd5o4axzxbncbem], 147 bytes
+Wrote block with CID: [bafyreifjqcx34qbkecvg6sre43ch54h7sway7ab22ssn7fjlkapmo5aczu], 93 bytes
+Wrote block with CID: [bafyreihmwmrezlkoj2ueffyu2p27v525aogrtuhyc4xo4vaua6g5eapbgi], 213 bytes
+Wrote block with CID: [bafyreifolc3a6dgrkx7nutyrxyhzjrdzpmut7j7ssq2nfrpyppylh5kyke], 146 bytes
+Wrote block with CID: [bafyreieijbqzy65exenwxkcmkjk236rscaze4uoqyd2n5c5vsz5uycqpcm], 93 bytes
+Wrote block with CID: [bafyreifczq2lvmeenwgaj7cug6dc6x5jruvb4zs7mi64dldqietfvwelz4], 212 bytes
+Wrote block with CID: [bafyreibf7pah3mijv4spem6gjqqoxbuqd3zhiazxy6gom6odju7qxtovsq], 143 bytes
+Wrote block with CID: [bafyreibk6zfqbt4mgbg27gzbpkoyixhkn7pbwjga2rgrt65m6lqwwbxvla], 93 bytes
+Wrote block with CID: [bafyreiboad5kiubltmdbj5yhbm25gprv635eppq2rzjzzhiylgv3dlr5hm], 209 bytes
+Wrote block with CID: [bafyreifhhdvhbecmyw6ze6ndmp7xp2wuw4dmn3vl62vqr7ms5kt2eob5pm], 175 bytes
+Wrote block with CID: [bafyreieggluj4ydwkalz4edwpmsjld62fqte3wscpcwekcxttbfq3w5ipe], 93 bytes
+Wrote block with CID: [bafyreiegethppmmyvj6j7qtkxhfiyb54lfofwgnifwd5r3fnswizwptyxa], 241 bytes
+Wrote block with CID: [bafyreibp2cbwm24oikb3ptvn6ouu6tlkadwsdftnbj5jviauglk5vxs3va], 144 bytes
+Wrote block with CID: [bafyreia44uo55gvqj2ctenqixtknkndwfieykkf3og6h6mn6uxcvw7tvsi], 93 bytes
+Wrote block with CID: [bafyreic4dc7vvrsowoq3hr3kxz5sikivrvwindxl474gqr5pgw3uy6qxym], 210 bytes
+Wrote block with CID: [bafyreie4nsjg3pdmerc7ufonsucng7v45sgnxulmq5u6rbwlpz44k2tfdy], 163 bytes
+Wrote block with CID: [bafyreibeeznke74dpreexzli2ph3s7onulltsldqcmbsib5c5gnxfx6miu], 93 bytes
+Wrote block with CID: [bafyreibacd32j2ax6czti3zlu3qqnitr2wuz7rsol7qkwfbi7sctjtgin4], 229 bytes
+Wrote block with CID: [bafyreib2cxkwsewlxn532hiqcljh75v4hjqbaa53yevs3e6rddude7lkme], 266 bytes
+Wrote block with CID: [bafyreifaxg4cvbu4lyw446mxhfuq7qnudzmtrt62nq4y5zooflm47l467q], 93 bytes
+Wrote block with CID: [bafyreihjh3fbzlgqz7aqdqlgykbq4mwmq43k4wfj6kb3mv2rkewu5qqnbe], 332 bytes
+Wrote block with CID: [bafyreibrvkyjpvwmrlzgorikjqes3guwberq6jujzbkvvniiagtlnhrerm], 149 bytes
+Wrote block with CID: [bafyreifihf4kahsjaiqz4qxfng4uj564iz4apqerxqidyljc4d625k6qza], 93 bytes
+Wrote block with CID: [bafyreibgwwwnrbp7b6jt23gzlh5elaofl7tabgwuktfiokkdebwdwutwuq], 215 bytes
+Wrote block with CID: [bafyreie5lf6zcmu4uevmgsr4dclfjc6vh6vna5ok5zwl5izo3pqyry3qga], 155 bytes
+Wrote block with CID: [bafyreie5m7yknxhi7nqjtprgeofodwjfestv2tp7a2ffav7ag5g4lhcri4], 93 bytes
+Wrote block with CID: [bafyreibobz62dml5f2tkj4w4bzirsxutcgwhtwxgzj2xbnnhdjfme5vzqe], 220 bytes
+Wrote block with CID: [bafyreiffaume56bkd7443iz5krdlku557hgnpqbpjsot4ijetkpvvp77we], 204 bytes
+Wrote block with CID: [bafyreibkmpisitr3wbaf25rjtzg2wespxzl3mqfkefycw6dqddpsb6nmiy], 101 bytes
+Wrote block with CID: [bafyreiabwt5yejdt2cm4txypntutx7xnufxtfgblqvxvevvz746dbmhu3a], 269 bytes
+Wrote block with CID: [bafyreibvb6kjaybbeneemcfqjien73wi3qygwpyjxq3txap4ujnlub5emm], 123 bytes
+Wrote block with CID: [bafyreiddx56clf34attikwar64a72pidmxutofalfggaghz3cl6l7mgyea], 101 bytes
+Wrote block with CID: [bafyreiegy54lb26v5bwyqowkrzc4djflmtekutdeugfss3bh456hxe2nxa], 188 bytes
