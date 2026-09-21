@@ -1,4 +1,4 @@
-# atproto-dids-experiment
+# atproto-dids-experiments
 
 An experiment to sign ATproto commits with various different DIDs:
 
